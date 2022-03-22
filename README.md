@@ -28,6 +28,6 @@ ICRA2022: Sept 15, 2021 [200 days]
 #### Visualization
 
 * [X] Immigrant visualizer to github.io. [03/12]
-* [ ] Finish project page for STAR-no-prior. [03/19]
+* [X] Finish project page for STAR-no-prior. [03/19]
 * [ ] Enhance code & documentation for WebViewer3D. [04/02]
 * [ ] Publish WebViewer3D ver.0.0.1 [04/16]
