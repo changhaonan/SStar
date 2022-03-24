@@ -1,0 +1,119 @@
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.07381, "decode.loss_ce": 1.35082, "decode.acc_seg": 17.90683, "loss": 1.35082, "time": 0.17565}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.08014, "decode.loss_ce": 1.30857, "decode.acc_seg": 22.49504, "loss": 1.30857, "time": 0.17897}
+{"mode": "train", "epoch": 1, "iter": 20, "lr": 0.0, "memory": 1852, "data_time": 0.07438, "decode.loss_ce": 1.20656, "decode.acc_seg": 23.90703, "loss": 1.20656, "time": 0.17834}
+{"mode": "train", "epoch": 1, "iter": 30, "lr": 0.0, "memory": 1852, "data_time": 0.09661, "decode.loss_ce": 1.18562, "decode.acc_seg": 41.36708, "loss": 1.18562, "time": 0.19636}
+{"mode": "train", "epoch": 1, "iter": 40, "lr": 0.0, "memory": 1852, "data_time": 0.07463, "decode.loss_ce": 1.08634, "decode.acc_seg": 62.4418, "loss": 1.08634, "time": 0.17353}
+{"mode": "train", "epoch": 1, "iter": 50, "lr": 0.0, "memory": 1852, "data_time": 0.30236, "decode.loss_ce": 1.12062, "decode.acc_seg": 66.36102, "loss": 1.12062, "time": 0.4039}
+{"mode": "train", "epoch": 1, "iter": 60, "lr": 0.0, "memory": 1852, "data_time": 0.07271, "decode.loss_ce": 1.0195, "decode.acc_seg": 76.34759, "loss": 1.0195, "time": 0.17157}
+{"mode": "train", "epoch": 1, "iter": 70, "lr": 0.0, "memory": 1852, "data_time": 0.06432, "decode.loss_ce": 0.93433, "decode.acc_seg": 79.21419, "loss": 0.93433, "time": 0.16518}
+{"mode": "train", "epoch": 1, "iter": 80, "lr": 0.0, "memory": 1852, "data_time": 0.07409, "decode.loss_ce": 0.91754, "decode.acc_seg": 83.27013, "loss": 0.91754, "time": 0.1721}
+{"mode": "train", "epoch": 1, "iter": 90, "lr": 0.0, "memory": 1852, "data_time": 0.06996, "decode.loss_ce": 0.82315, "decode.acc_seg": 83.95693, "loss": 0.82315, "time": 0.16923}
+{"mode": "train", "epoch": 1, "iter": 100, "lr": 0.0, "memory": 1852, "data_time": 0.11079, "decode.loss_ce": 0.8447, "decode.acc_seg": 83.2794, "loss": 0.8447, "time": 0.20859}
+{"mode": "train", "epoch": 1, "iter": 110, "lr": 0.0, "memory": 1852, "data_time": 0.10107, "decode.loss_ce": 0.75785, "decode.acc_seg": 89.41092, "loss": 0.75785, "time": 0.19909}
+{"mode": "train", "epoch": 1, "iter": 120, "lr": 0.0, "memory": 1852, "data_time": 0.11964, "decode.loss_ce": 0.82041, "decode.acc_seg": 87.71069, "loss": 0.82041, "time": 0.21736}
+{"mode": "train", "epoch": 1, "iter": 130, "lr": 0.0, "memory": 1852, "data_time": 0.10782, "decode.loss_ce": 0.66875, "decode.acc_seg": 90.6494, "loss": 0.66875, "time": 0.20591}
+{"mode": "train", "epoch": 1, "iter": 140, "lr": 0.0, "memory": 1852, "data_time": 0.33568, "decode.loss_ce": 0.65131, "decode.acc_seg": 93.4313, "loss": 0.65131, "time": 0.43603}
+{"mode": "train", "epoch": 1, "iter": 150, "lr": 0.0, "memory": 1852, "data_time": 0.06917, "decode.loss_ce": 0.68579, "decode.acc_seg": 90.80587, "loss": 0.68579, "time": 0.16766}
+{"mode": "train", "epoch": 1, "iter": 160, "lr": 0.0, "memory": 1852, "data_time": 0.06355, "decode.loss_ce": 0.60412, "decode.acc_seg": 92.70826, "loss": 0.60412, "time": 0.16171}
+{"mode": "train", "epoch": 1, "iter": 170, "lr": 0.0, "memory": 1852, "data_time": 0.0772, "decode.loss_ce": 0.65162, "decode.acc_seg": 91.73465, "loss": 0.65162, "time": 0.17493}
+{"mode": "train", "epoch": 1, "iter": 180, "lr": 0.0, "memory": 1852, "data_time": 0.06579, "decode.loss_ce": 0.74879, "decode.acc_seg": 86.22422, "loss": 0.74879, "time": 0.16416}
+{"mode": "train", "epoch": 1, "iter": 190, "lr": 0.0, "memory": 1852, "data_time": 0.12228, "decode.loss_ce": 0.60828, "decode.acc_seg": 93.18198, "loss": 0.60828, "time": 0.22248}
+{"mode": "train", "epoch": 1, "iter": 200, "lr": 0.0, "memory": 1852, "data_time": 0.10538, "decode.loss_ce": 0.61781, "decode.acc_seg": 93.81801, "loss": 0.61781, "time": 0.21356}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.07262, "decode.loss_ce": 1.34401, "decode.acc_seg": 23.34939, "loss": 1.34401, "time": 0.17179}
+{"mode": "train", "epoch": 1, "iter": 20, "lr": 0.0, "memory": 1852, "data_time": 0.06796, "decode.loss_ce": 1.25545, "decode.acc_seg": 25.162, "loss": 1.25545, "time": 0.1686}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.07188, "decode.loss_ce": 1.31163, "decode.acc_seg": 21.73835, "loss": 1.31163, "time": 0.18263}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.08019, "decode.loss_ce": 1.33972, "decode.acc_seg": 23.33682, "loss": 1.33972, "time": 0.18031}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.0794, "decode.loss_ce": 1.29995, "decode.acc_seg": 21.5303, "loss": 1.29995, "time": 0.17857}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.07519, "decode.loss_ce": 1.32241, "decode.acc_seg": 19.70749, "loss": 1.32241, "time": 0.17407}
+{}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.11219, "decode.loss_ce": 1.30559, "decode.acc_seg": 24.63844, "loss": 1.30559, "time": 0.23171}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.10948, "decode.loss_ce": 1.36142, "decode.acc_seg": 27.41331, "loss": 1.36142, "time": 0.22911}
+{}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.20544, "decode.loss_ce": 1.1934, "decode.acc_seg": 37.5845, "loss": 1.1934, "time": 0.40278}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.2421, "mIoU": 0.0697, "mAcc": 0.3907, "IoU.chips can": 0.021, "IoU.master chef can": 0.2296, "IoU.cracker box": 0.028, "IoU.stuff": 0.0, "Acc.chips can": 0.1246, "Acc.master chef can": 0.2297, "Acc.cracker box": 0.8179, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 20, "lr": 0.0, "memory": 1852, "data_time": 5.06771, "decode.loss_ce": 1.20173, "decode.acc_seg": 33.90317, "loss": 1.20173, "time": 5.22209}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.4027, "mIoU": 0.1118, "mAcc": 0.445, "IoU.chips can": 0.009, "IoU.master chef can": 0.396, "IoU.cracker box": 0.0422, "IoU.stuff": 0.0, "Acc.chips can": 0.1889, "Acc.master chef can": 0.3963, "Acc.cracker box": 0.7499, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 30, "lr": 0.0, "memory": 1852, "data_time": 5.18561, "decode.loss_ce": 1.14254, "decode.acc_seg": 39.78977, "loss": 1.14254, "time": 5.3396}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.1021, "mIoU": 0.0307, "mAcc": 0.3488, "IoU.chips can": 0.0048, "IoU.master chef can": 0.0873, "IoU.cracker box": 0.0309, "IoU.stuff": 0.0, "Acc.chips can": 0.2695, "Acc.master chef can": 0.0873, "Acc.cracker box": 0.6895, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 40, "lr": 0.0, "memory": 1852, "data_time": 4.99002, "decode.loss_ce": 1.15709, "decode.acc_seg": 43.36412, "loss": 1.15709, "time": 5.14353}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.20609, "decode.loss_ce": 1.18043, "decode.acc_seg": 32.69061, "loss": 1.18043, "time": 0.40243}
+{"mode": "train", "epoch": 1, "iter": 20, "lr": 0.0, "memory": 1852, "data_time": 0.19263, "decode.loss_ce": 1.32587, "decode.acc_seg": 27.84233, "loss": 1.32587, "time": 0.34327}
+{"mode": "train", "epoch": 1, "iter": 30, "lr": 0.0, "memory": 1852, "data_time": 0.18518, "decode.loss_ce": 1.14398, "decode.acc_seg": 35.88496, "loss": 1.14398, "time": 0.33627}
+{"mode": "train", "epoch": 1, "iter": 40, "lr": 0.0, "memory": 1852, "data_time": 0.18511, "decode.loss_ce": 1.16961, "decode.acc_seg": 45.15015, "loss": 1.16961, "time": 0.33632}
+{"mode": "train", "epoch": 1, "iter": 50, "lr": 0.0, "memory": 1852, "data_time": 0.19017, "decode.loss_ce": 1.17022, "decode.acc_seg": 57.41876, "loss": 1.17022, "time": 0.34408}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0181, "mIoU": 0.0411, "mAcc": 0.3067, "IoU.chips can": 0.0019, "IoU.master chef can": 0.0022, "IoU.cracker box": 0.1603, "IoU.stuff": 0.0, "Acc.chips can": 0.2249, "Acc.master chef can": 0.0022, "Acc.cracker box": 0.693, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 60, "lr": 0.0, "memory": 1852, "data_time": 4.87499, "decode.loss_ce": 1.04761, "decode.acc_seg": 67.04035, "loss": 1.04761, "time": 5.02977}
+{"mode": "train", "epoch": 1, "iter": 70, "lr": 0.0, "memory": 1852, "data_time": 0.20786, "decode.loss_ce": 1.02062, "decode.acc_seg": 75.50889, "loss": 1.02062, "time": 0.36133}
+{"mode": "train", "epoch": 1, "iter": 80, "lr": 0.0, "memory": 1852, "data_time": 0.19904, "decode.loss_ce": 0.97414, "decode.acc_seg": 77.58362, "loss": 0.97414, "time": 0.35181}
+{"mode": "train", "epoch": 1, "iter": 90, "lr": 0.0, "memory": 1852, "data_time": 0.19067, "decode.loss_ce": 0.90315, "decode.acc_seg": 81.76317, "loss": 0.90315, "time": 0.34369}
+{"mode": "train", "epoch": 1, "iter": 100, "lr": 0.0, "memory": 1852, "data_time": 0.19205, "decode.loss_ce": 0.87993, "decode.acc_seg": 80.89482, "loss": 0.87993, "time": 0.34393}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0126, "mIoU": 0.0417, "mAcc": 0.2468, "IoU.chips can": 0.0024, "IoU.master chef can": 0.0012, "IoU.cracker box": 0.1632, "IoU.stuff": 0.0, "Acc.chips can": 0.2881, "Acc.master chef can": 0.0012, "Acc.cracker box": 0.451, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 110, "lr": 0.0, "memory": 1852, "data_time": 4.88545, "decode.loss_ce": 0.83856, "decode.acc_seg": 83.612, "loss": 0.83856, "time": 5.03871}
+{"mode": "train", "epoch": 1, "iter": 120, "lr": 0.0, "memory": 1852, "data_time": 0.20007, "decode.loss_ce": 0.86193, "decode.acc_seg": 83.58825, "loss": 0.86193, "time": 0.3517}
+{"mode": "train", "epoch": 1, "iter": 130, "lr": 0.0, "memory": 1852, "data_time": 0.18631, "decode.loss_ce": 0.74085, "decode.acc_seg": 89.12684, "loss": 0.74085, "time": 0.33722}
+{"mode": "train", "epoch": 1, "iter": 140, "lr": 0.0, "memory": 1852, "data_time": 0.1861, "decode.loss_ce": 0.7293, "decode.acc_seg": 90.01547, "loss": 0.7293, "time": 0.3364}
+{"mode": "train", "epoch": 1, "iter": 150, "lr": 0.0, "memory": 1852, "data_time": 0.19196, "decode.loss_ce": 0.74572, "decode.acc_seg": 88.57819, "loss": 0.74572, "time": 0.34186}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0179, "mIoU": 0.0263, "mAcc": 0.1388, "IoU.chips can": 0.0018, "IoU.master chef can": 0.0126, "IoU.cracker box": 0.0906, "IoU.stuff": 0.0, "Acc.chips can": 0.2249, "Acc.master chef can": 0.0128, "Acc.cracker box": 0.1786, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 160, "lr": 0.0, "memory": 1852, "data_time": 4.90292, "decode.loss_ce": 0.73209, "decode.acc_seg": 89.47821, "loss": 0.73209, "time": 5.05571}
+{"mode": "train", "epoch": 1, "iter": 170, "lr": 0.0, "memory": 1852, "data_time": 0.1918, "decode.loss_ce": 0.73191, "decode.acc_seg": 88.65207, "loss": 0.73191, "time": 0.34177}
+{"mode": "train", "epoch": 1, "iter": 180, "lr": 0.0, "memory": 1852, "data_time": 0.18591, "decode.loss_ce": 0.71205, "decode.acc_seg": 91.64279, "loss": 0.71205, "time": 0.33607}
+{"mode": "train", "epoch": 1, "iter": 190, "lr": 0.0, "memory": 1852, "data_time": 0.18958, "decode.loss_ce": 0.63347, "decode.acc_seg": 91.56956, "loss": 0.63347, "time": 0.34044}
+{"mode": "train", "epoch": 1, "iter": 200, "lr": 0.0, "memory": 1852, "data_time": 0.19019, "decode.loss_ce": 0.69771, "decode.acc_seg": 89.83318, "loss": 0.69771, "time": 0.3747}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0231, "mIoU": 0.0217, "mAcc": 0.1165, "IoU.chips can": 0.0019, "IoU.master chef can": 0.0195, "IoU.cracker box": 0.0654, "IoU.stuff": 0.0, "Acc.chips can": 0.2361, "Acc.master chef can": 0.0199, "Acc.cracker box": 0.0936, "Acc.stuff": NaN}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.20894, "decode.loss_ce": 1.1902, "decode.acc_seg": 37.79858, "loss": 1.1902, "time": 0.40501}
+{}
+{"mode": "train", "epoch": 1, "iter": 10, "lr": 0.0, "memory": 1852, "data_time": 0.20535, "decode.loss_ce": 1.19963, "decode.acc_seg": 33.21072, "loss": 1.19963, "time": 0.40209}
+{"mode": "train", "epoch": 1, "iter": 20, "lr": 0.0, "memory": 1852, "data_time": 0.2066, "decode.loss_ce": 1.24864, "decode.acc_seg": 36.80852, "loss": 1.24864, "time": 0.35656}
+{"mode": "train", "epoch": 1, "iter": 30, "lr": 0.0, "memory": 1852, "data_time": 0.19569, "decode.loss_ce": 1.1361, "decode.acc_seg": 40.97354, "loss": 1.1361, "time": 0.34742}
+{"mode": "train", "epoch": 1, "iter": 40, "lr": 0.0, "memory": 1852, "data_time": 0.18355, "decode.loss_ce": 1.18395, "decode.acc_seg": 43.48019, "loss": 1.18395, "time": 0.33403}
+{"mode": "train", "epoch": 1, "iter": 50, "lr": 0.0, "memory": 1852, "data_time": 0.20066, "decode.loss_ce": 1.10742, "decode.acc_seg": 57.62598, "loss": 1.10742, "time": 0.35323}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0152, "mIoU": 0.0264, "mAcc": 0.2864, "IoU.chips can": 0.002, "IoU.master chef can": 0.001, "IoU.cracker box": 0.1024, "IoU.stuff": 0.0, "Acc.chips can": 0.2315, "Acc.master chef can": 0.001, "Acc.cracker box": 0.6267, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 60, "lr": 0.0, "memory": 1852, "data_time": 4.89753, "decode.loss_ce": 1.08331, "decode.acc_seg": 56.20338, "loss": 1.08331, "time": 5.05298}
+{"mode": "train", "epoch": 1, "iter": 70, "lr": 0.0, "memory": 1852, "data_time": 0.20364, "decode.loss_ce": 0.99583, "decode.acc_seg": 77.22512, "loss": 0.99583, "time": 0.35432}
+{"mode": "train", "epoch": 1, "iter": 80, "lr": 0.0, "memory": 1852, "data_time": 0.19837, "decode.loss_ce": 0.93529, "decode.acc_seg": 79.63357, "loss": 0.93529, "time": 0.34912}
+{"mode": "train", "epoch": 1, "iter": 90, "lr": 0.0, "memory": 1852, "data_time": 0.19837, "decode.loss_ce": 0.87028, "decode.acc_seg": 82.56724, "loss": 0.87028, "time": 0.34879}
+{"mode": "train", "epoch": 1, "iter": 100, "lr": 0.0, "memory": 1852, "data_time": 0.19772, "decode.loss_ce": 0.85316, "decode.acc_seg": 84.40332, "loss": 0.85316, "time": 0.34767}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0133, "mIoU": 0.0418, "mAcc": 0.2484, "IoU.chips can": 0.0019, "IoU.master chef can": 0.0015, "IoU.cracker box": 0.1639, "IoU.stuff": 0.0, "Acc.chips can": 0.2328, "Acc.master chef can": 0.0015, "Acc.cracker box": 0.5109, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 110, "lr": 0.0, "memory": 1852, "data_time": 4.91897, "decode.loss_ce": 0.83714, "decode.acc_seg": 84.96988, "loss": 0.83714, "time": 5.07628}
+{"mode": "train", "epoch": 1, "iter": 120, "lr": 0.0, "memory": 1852, "data_time": 0.20416, "decode.loss_ce": 0.77325, "decode.acc_seg": 86.52767, "loss": 0.77325, "time": 0.35516}
+{"mode": "train", "epoch": 1, "iter": 130, "lr": 0.0, "memory": 1852, "data_time": 0.18662, "decode.loss_ce": 0.67852, "decode.acc_seg": 91.36369, "loss": 0.67852, "time": 0.34197}
+{"mode": "train", "epoch": 1, "iter": 140, "lr": 0.0, "memory": 1852, "data_time": 0.19262, "decode.loss_ce": 0.7752, "decode.acc_seg": 88.04245, "loss": 0.7752, "time": 0.34759}
+{"mode": "train", "epoch": 1, "iter": 150, "lr": 0.0, "memory": 1852, "data_time": 0.1892, "decode.loss_ce": 0.72547, "decode.acc_seg": 88.14447, "loss": 0.72547, "time": 0.34074}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0154, "mIoU": 0.0186, "mAcc": 0.1206, "IoU.chips can": 0.002, "IoU.master chef can": 0.0116, "IoU.cracker box": 0.0609, "IoU.stuff": 0.0, "Acc.chips can": 0.25, "Acc.master chef can": 0.0118, "Acc.cracker box": 0.1, "Acc.stuff": NaN}
+{"mode": "train", "epoch": 1, "iter": 160, "lr": 0.0, "memory": 1852, "data_time": 4.93531, "decode.loss_ce": 0.72137, "decode.acc_seg": 88.94043, "loss": 0.72137, "time": 5.08827}
+{"mode": "train", "epoch": 1, "iter": 170, "lr": 0.0, "memory": 1852, "data_time": 0.19236, "decode.loss_ce": 0.65503, "decode.acc_seg": 91.60728, "loss": 0.65503, "time": 0.34156}
+{"mode": "train", "epoch": 1, "iter": 180, "lr": 0.0, "memory": 1852, "data_time": 0.20197, "decode.loss_ce": 0.70552, "decode.acc_seg": 90.12378, "loss": 0.70552, "time": 0.35189}
+{"mode": "train", "epoch": 1, "iter": 190, "lr": 0.0, "memory": 1852, "data_time": 0.2066, "decode.loss_ce": 0.53784, "decode.acc_seg": 94.65667, "loss": 0.53784, "time": 0.35601}
+{"mode": "train", "epoch": 1, "iter": 200, "lr": 0.0, "memory": 1852, "data_time": 0.20068, "decode.loss_ce": 0.69513, "decode.acc_seg": 90.90998, "loss": 0.69513, "time": 0.37856}
+{"mode": "val", "epoch": 1, "iter": 180, "lr": 0.0, "aAcc": 0.0219, "mIoU": 0.0169, "mAcc": 0.1003, "IoU.chips can": 0.0017, "IoU.master chef can": 0.0192, "IoU.cracker box": 0.0468, "IoU.stuff": 0.0, "Acc.chips can": 0.2169, "Acc.master chef can": 0.0195, "Acc.cracker box": 0.0645, "Acc.stuff": NaN}
